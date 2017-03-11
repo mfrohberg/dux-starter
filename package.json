@@ -16,7 +16,9 @@
     "url": "https://github.com/mfrohberg/dux-starter/issues"
   },
   "homepage": "https://github.com/mfrohberg/dux-starter#readme",
-  "devDependencies": {
+  "dependencies": {
+    "extract-text-webpack-plugin": "^2.1.0",
+    "universal-webpack": "^0.3.7",
     "webpack": "^2.2.1"
   }
 }
