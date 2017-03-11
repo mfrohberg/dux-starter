@@ -1,0 +1,22 @@
+{
+  "name": "dux-starter",
+  "version": "1.0.0",
+  "description": "Another Universal Redux Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfrohberg/dux-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfrohberg/dux-starter/issues"
+  },
+  "homepage": "https://github.com/mfrohberg/dux-starter#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
